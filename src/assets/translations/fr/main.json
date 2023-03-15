@@ -1748,34 +1748,34 @@
     "emptyBody": {
       "seniorBestYield": {
         "page-1": {
-          "title": "Stratégie \"Senior Best Yield\"",
-          "body": "Les coffres-forts \"Senior Best Yield\" sont des stratégies que vous pouvez définir puis auxquelles vous n'avez plus à penser, elles acheminent automatiquement les fonds vers plusieurs sources de rendement à risque conservateur pour toujours fournir l'APY le plus élevé."
+          "title": "Senior Best Yield Strategy",
+          "body": "Senior Best Yield vaults are set-and-forget strategies that automatically route funds across multiple, conservative-risk yield sources to always provide the highest APY"
         },
         "page-2": {
-          "title": "Stratégies \"Senior Best Yield\" :",
+          "title": "Senior Best Yield strategies:",
           "bullets": {
-            "one": "Automatisation et optimisation de la génération de rendement sur Aave, Compound et de multiples \"Senior Tranches\"",
-            "two": "Offrir des rendements maximisés sans que l'utilisateur ne vérifie constamment les tarifs et ne brûle du carburant pour chaque transfert"
+            "one": "Automation and optimization of the yield generation across Aave, Compound, and multiple Senior Tranches",
+            "two": "Offer maximized returns without the user constantly checking rates and burning gas on every transfer"
           }
         }
       },
       "juniorBestYield": {
         "page-1": {
-          "title": "Stratégie \"Junior Best Yield\"",
-          "body": "Les coffres-forts \"Junior Best Yield\" sont des stratégies que vous pouvez définir puis auxquelles vous n'avez plus à penser, elles acheminent automatiquement les fonds sur plusieurs \"Junior Tranches\" pour toujours fournir des APY boostés et maximisés."
+          "title": "Junior Best Yield Strategy",
+          "body": "Junior Best Yield vaults are set-and-forget strategies that automatically route funds across multiple Junior Tranches to always provide boosted, maximized APYs"
         },
         "page-2": {
-          "title": "Stratégies \"Junior Best Yield\" :",
+          "title": "Junior Best Yield strategies:",
           "bullets": {
-            "one": "Automatisation et optimisation de la génération de rendement sur plusieurs \"Junior Tranches\", offrant des rendements accrus de par leur conception",
-            "two": "Offrir des rendements maximisés sans que l'utilisateur ne vérifie constamment les tarifs et ne brûle du carburant pour chaque transfert"
+            "one": "Automation and optimization of the yield generation across multiple Junior Tranches, providing boosted yields by design",
+            "two": "Offer maximized returns without the user constantly constantly checking rates and burning gas on every transfer"
           }
         }
       },
       "seniorTranche": {
         "page-1": {
           "title": "Stratégie \"Senior Tranche\"",
-          "body": "Profitez de rendements DeFi avec une protection intégrée sur les dépôts. Les \"Senior Tranches\" offrent une couverture à spectre complet, fournie par leur contrepartie Junior."
+          "body": "Les \"Senior Tranches\" offrent de grandes opportunités avec un risque réduit par rapport aux \"Junior Tranches\"."
         },
         "page-2": {
           "title": "Stratégies \"Senior Tranche\" :"
@@ -1784,22 +1784,22 @@
       "juniorTranche": {
         "page-1": {
           "title": "Stratégie \"Junior Tranche\"",
-          "body": "Profitez de rendements DeFi boostés. Les \"Junior Tranches\" offrent des rendements à effet de levier car elles sont compensées par leur contrepartie Senior pour avoir pris plus de risques."
+          "body": "Les \"Junior Tranches\" offrent des rendements DeFi optimisés amplifiés impliquant un degré de risque plus élevé."
         },
         "page-2": {
           "title": "Stratégies \"Junior Tranche\" :"
         }
       },
       "monitorSystem": "Utiliser le système de surveillance d'Idle Finance pour trouver des allocations plus performantes et déclencher un rééquilibrage",
-      "offerHighReturn": "Offrir des rendements maximisés sans que l'utilisateur ne vérifie constamment les tarifs et ne brûle du carburant pour chaque transfert",
+      "offerHighReturn": "Offrir des rendements élevés sans que l'utilisateur ne doive vérifier constamment les tarifs et ne brûle du carburant pour chaque transfert",
       "leverageYield": "Obtenir des rendements en utilisant des fonds \"Senior Tranche\"",
       "higherRisk": "Exposition aux risques plus élevée en protégeant les \"Senior Tranches\"",
       "minRisk": "Exposition aux risques minimisée",
       "builtInCoverage": "Couverture intégrée pour des récompenses à taux variable",
       "noLockingPeriod": "Pas de période/epoch de verrouillage",
       "autoReinvest": "Réinvestissement automatique des jetons accumulés",
-      "fundsCoveredJunior": "Fonds couverts par les \"Junior Tranches\"",
-      "automation": "Automatisation et optimisation de la génération de rendement sur Aave, Compound et de multiples \"Senior Tranches\""
+      "fundsCoveredJunior": "Funds covered by Junior Tranches",
+      "automation": "Automation and optimization of the yield generation across Aave, Compound, and multiple Senior Tranches"
     },
     "bestYield": {
       "title": "Qu'est-ce que la stratégie \"Best Yield\" ?",
@@ -1807,11 +1807,11 @@
     },
     "seniorTranche": {
       "title": "Qu'est-ce qu'une \"Senior Tranche\" ?",
-      "body": "Profitez de rendements DeFi avec une protection intégrée sur les dépôts. Les \"Senior Tranches\" offrent une couverture à spectre complet, fournie par leur contrepartie Junior."
+      "body": "Profitez des rendements DeFi sur plusieurs protocoles tout en protégeant votre dépôt. Les \"Senior Tranches\" offrent une protection intégrée sur les fonds et offrent une couverture complète grâce à leur contrepartie \"Junior\"."
     },
     "juniorTranche": {
       "title": "Qu'est-ce qu'une \"Junior Tranche\" ?",
-      "body": "Profitez de rendements DeFi boostés. Les \"Junior Tranches\" offrent des rendements à effet de levier car elles sont compensées par leur contrepartie Senior pour avoir pris plus de risques."
+      "body": "Profitez de rendements accrus sur plusieurs protocoles DeFi : les \"Junior Tranches\" obtiennent un rendement à effet de levier car elles sont rémunérées pour avoir fourni un capital de première perte (first-loss) à leur contrepartie \"Senior\"."
     }
   },
   "promo": {
