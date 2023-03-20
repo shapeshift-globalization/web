@@ -80,7 +80,7 @@
     "switchNetwork": "Changer de réseau",
     "unsupportedNetwork": "Réseau non pris en charge",
     "chartUnavailable": "Les données du graphique de soldes sont temporairement indisponibles pour %{unavailableAssetNames}.",
-    "search": "Rechercher",
+    "search": "Rehercher",
     "searchAsset": "Rechercher un actif",
     "enterAmount": "Entrer le montant",
     "pageNotFound": "La page que vous recherchez est introuvable",
