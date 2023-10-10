@@ -2110,7 +2110,7 @@
     "currentFoxPower": "Puissance FOX actuelle",
     "foxPower": "Puissance FOX",
     "simulateTitle": "Simulez vos économies FOX",
-    "simulateBody": "Utilisez cette calculatrice pratique pour déterminer le total de vos frais et la remise dont vous bénéficierez sur votre échange. Ajustez simplement les curseurs ci-dessous pour indiquer le montant de vos avoirs FOX et le montant de votre échange en monnaie fiat, et constatez vos économies potentielles !",
+    "simulateBody": "Utilisez cette calculatrice pratique pour déterminer le total de vos frais et la remise dont vous bénéficierez sur votre échange. Ajustez simplement les curseurs ci-dessous pour indiquer le montant de vos avoirs FOX et le montant de votre échange en monnaie fiduciaire, et constatez vos économies potentielles !",
     "tradeSize": "Montant de l'échange",
     "totalFee": "Total des frais",
     "foxPowerDiscount": "Remise Puissance FOX",
