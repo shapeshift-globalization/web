@@ -1828,7 +1828,7 @@
           "events": "Événements",
           "selectedAccounts": "Comptes sélectionnés",
           "permissionMessage": "Veuillez sélectionner au moins un compte par chaîne.",
-          "optionalPermissionMessage": "Les autorisations suivantes sont optionnelles."
+          "optionalPermissionMessage": "Les permissions suivantes sont optionnelles."
         }
       },
       "registry": {
