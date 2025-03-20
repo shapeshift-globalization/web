@@ -98,20 +98,27 @@ export const Buy = () => {
               alignItems={alignItemsXlFlexStart}
               textAlign={textAlignXlLeft}
             >
-              <Heading
+              <Text
+                as={Heading}
                 fontSize={headingFontSize}
                 lineHeight='1em'
                 letterSpacing='-0.05em'
                 color='whiteAlpha.900'
-              >
-                {translate('buyPage.title.first')}{' '}
-                <Text
-                  as='span'
-                  background='linear-gradient(97.53deg, #F687B3 5.6%, #7B61FF 59.16%, #16D1A1 119.34%)'
-                  backgroundClip='text'
-                  translation='buyPage.title.second'
-                />
-              </Heading>
+                translation='buyPage.title'
+                components={useMemo(
+                  () => ({
+                    span: (
+                      <Box
+                        as='span'
+                        background='linear-gradient(97.53deg, #F687B3 5.6%, #7B61FF 59.16%, #16D1A1 119.34%)'
+                        backgroundClip='text'
+                      />
+                    ),
+                  }),
+                  [],
+                )}
+              />
+
               <Text fontSize='lg' translation='buyPage.body' color='whiteAlpha.900' />
               <Text fontSize='sm' color='text.subtle' translation='buyPage.disclaimer' />
             </Flex>
